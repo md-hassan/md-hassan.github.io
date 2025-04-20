@@ -2,7 +2,7 @@
 layout: page
 title: Projects
 permalink: /projects/
-description: A collection of my projects.
+description: A collection of my projects (probably not up to date).
 nav: true
 nav_order: 1
 display_categories: [Research, Projects, Paper Re-implementations]

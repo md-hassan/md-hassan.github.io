@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: page
 permalink: /collaborators/
 title: Collaborators
@@ -85,4 +85,4 @@ nav_order: 3
             <p><br> MS in CS, Stony Brook University, USA </p>
         </div>
     </div>
-</div>
+</div> -->

@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2024-07-11 
+date: 2024-09-04 
 inline: true
 ---
 
-I'll be joining the MSCS program at UMass Amherst this Fall!
+Joined the MSCS program at UMass Amherst!

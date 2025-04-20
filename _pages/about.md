@@ -6,7 +6,7 @@ permalink: /
 
 profile:
   align: right
-  image: Newport LA.png
+  image: Brooklyn.jpg
   image_circular: false # crops the image to make it circular
   # address: >
   #   <p>555 your office number</p>
@@ -18,10 +18,10 @@ news: true  # includes a list of news items
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hi, I am an incoming MSCS student at UMass Amherst. My research interests include `Deep Learning`, `Image Processing` and, `Multimodal Learning` among others. 
+Hi, I am an MSCS student at UMass Amherst. My research interests include `Computer Vision` and `Multimodal Learning`. I have also recently been working with `Large Language Models (LLMs)`.
 
-Recently, I have been working on 3D vision problems at [Dr. Shanmuganathan Raman](https://people.iitgn.ac.in/~shanmuga/)'s CVIG Lab at IIT Gandhinagar. 
+At UMass, I am currently working with [Dr. Subhransu Maji](https://people.cs.umass.edu/~smaji/) on Image Saliency methods. I have also been working with [Dr. Chuang Gan](https://people.csail.mit.edu/ganchuang/) on LLM efficiency.
 
-I spent last year's summer hunting for anomalous Astronomical Transients using Machine Learning as a [Caltech SURF](https://sfp.caltech.edu/undergraduate-research/programs/surf) Fellow, advised by [Dr. Asish Mahabal](https://sites.astro.caltech.edu/~aam/). I have interned before at the University of Calgary as a [MITACS GRI](https://www.mitacs.ca/en/programs/globalink/globalink-research-internship) scholar with [Dr. Roberto Souza](https://www.ai2lab.ca/team). I have also collaborated with [Dr. Mayank Singh](https://mayank4490.github.io/) at IIT Gandhinagar.
+During my undergrad at IIT Gandhinagar, I have have been fortunate to work with [Dr. Shanmuganathan Raman](https://people.iitgn.ac.in/~shanmuga/) and [Dr. Mayank Singh](https://mayank4490.github.io/). I have also spent my undergrad summers researching at places like Caltech and the University of Calgary.
 
-Here is my [Resume](https://drive.google.com/file/d/1CFdoPGoX5Ky-mOkchMmtjI_w-9dRPqjI/view?usp=sharing) (last updated: July 2024). I am always on the lookout for interesting problems and collaboration opportunities!
+Here is my [Resume](https://drive.google.com/file/d/1hEy6N3kn1NZr8Ykr5aVr7Lyv49qPSAk3/view?usp=sharing) (last updated: March 2025). I am always on the lookout for interesting problems and collaboration opportunities!
