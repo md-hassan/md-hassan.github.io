@@ -40,6 +40,18 @@ layout: default
             {{ content }}
           </div>
 
+          <!-- Social -->
+          <!-- <h2>Social</h2> -->
+          <div class="social">
+            <div class="contact-icons">
+            {% include social.html %}
+            </div>
+
+            <div class="contact-note">
+              {{ site.contact_note }}
+            </div>
+          </div>
+
           {% if page.selected_papers -%}
           <!-- Selected papers -->
           {%- include selected_papers.html %}
@@ -49,18 +61,7 @@ layout: default
           {%- include news.html %}
           {%- endif %}
           {%- if page.social %}
-          <!-- Social -->
-          <h2>Social</h2>
-          <div class="social">
-            <div class="contact-icons">
-            {% include social.html %}
-            </div>
-
-            <div class="contact-note">
-              {{ site.contact_note }}
-            </div>
             
-          </div>
           {%- endif %}
         </article>
 
